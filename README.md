@@ -25,8 +25,8 @@ Erciyes Üniversitesi'nde **Bilgisayar Mühendisliği** 1. sınıf öğrencisiyi
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Muhammet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammetTalhaDemir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetTalhaDemir&layout=compact&theme=radical)
+![Muhammet's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammetTalhaDemir&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetTalhaDemir&layout=compact&theme=dark&hide_border=true)
 
 ---
 
