@@ -31,6 +31,6 @@ Erciyes Üniversitesi'nde **Bilgisayar Mühendisliği** 1. sınıf öğrencisiyi
 ---
 
 ### 📫 Bana Ulaşın
-- **Eposta:** [contact@muhammettalhademir.com](contact@muhammettalhademir.com)
+- **Eposta:** [contact@muhammettalhademir.com](mailto:contact@muhammettalhademir.com)
 - **Web Sitesi:** [muhammettalhademir.com](https://muhammettalhademir.com)
 - **LinkedIn:** [Muhammet Talha Demir](https://www.linkedin.com/in/muhammettalhademir)
