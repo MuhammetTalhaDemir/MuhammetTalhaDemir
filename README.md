@@ -1,4 +1,4 @@
-# Merhaba, ben Muhammet Talha! 👋
+# Merhaba, ben Muhammet Talha👋
 
 ### 👨‍💻 Hakkımda
 Erciyes Üniversitesi'nde **Bilgisayar Mühendisliği** 1. sınıf öğrencisiyim. Teknolojinin mutfağında olmayı, sistemlerin nasıl çalıştığını anlamayı ve kendi projelerimi inşa etmeyi seviyorum.
@@ -31,5 +31,6 @@ Erciyes Üniversitesi'nde **Bilgisayar Mühendisliği** 1. sınıf öğrencisiyi
 ---
 
 ### 📫 Bana Ulaşın
+- **Eposta:** [contact@muhammettalhademir.com](contact@muhammettalhademir.com)
 - **Web Sitesi:** [muhammettalhademir.com](https://muhammettalhademir.com)
 - **LinkedIn:** [Muhammet Talha Demir](https://www.linkedin.com/in/muhammettalhademir)
